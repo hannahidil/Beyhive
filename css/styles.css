@@ -5,8 +5,8 @@ body
 }
 .navbar {
   background-color: transparent;
-  font-family: 'Lora', serif;
-  font-size: 1.2rem;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
 
 }
 .social-icons {
@@ -16,6 +16,6 @@ body
   color: white
 }
 .navbar-brand {
-font-family: 'Dancing Script';
+font-family: 'Parisienne', cursive;
   font-size: 2.5rem;
 }
