@@ -19,3 +19,8 @@ body
 font-family: 'Parisienne', cursive;
   font-size: 2.5rem;
 }
+.important {
+  position: absolute;
+  top: 350px;
+  left: 650px;
+}
