@@ -20,7 +20,10 @@ font-family: 'Parisienne', cursive;
   font-size: 2.5rem;
 }
 .important {
+  color: white;
   position: absolute;
-  top: 350px;
-  left: 650px;
+  top: 155px;
+  left: 300px;
+  font-family: 'Parisienne', cursive;
+  font-size: 15rem;
 }
