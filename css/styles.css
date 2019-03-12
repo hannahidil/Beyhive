@@ -1,0 +1,29 @@
+body
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.navbar {
+  background-color: transparent;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+
+}
+.social-icons {
+  color: white
+}
+.text-white {
+  color: white
+}
+.navbar-brand {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+}
+.important {
+  color: white;
+  position: absolute;
+  top: 155px;
+  left: 300px;
+  font-family: 'Parisienne', cursive;
+  font-size: 15rem;
+}
