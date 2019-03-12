@@ -27,3 +27,8 @@ body
   font-family: 'Parisienne', cursive;
   font-size: 15rem;
 }
+.custom-cursor {
+  cursor: src="css/bee.svg";
+  width: 128px;
+  height:128px;
+}
