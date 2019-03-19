@@ -27,11 +27,7 @@ body
   font-family: 'Parisienne', cursive;
   font-size: 15rem;
 }
-.custom-cursor {
-  cursor: src="css/bee.svg";
-  width: 128px;
-  height:128px;
-}
+
 div.contrast {
   background-color: rgb(0,0,0);
   color: rgb(255,255,255);
