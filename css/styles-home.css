@@ -27,7 +27,3 @@ body
   font-family: 'Parisienne', cursive;
   font-size: 15rem;
 }
-* {
-  height: 100vh;
-  cursor: url('bee.png'), auto;
-}
