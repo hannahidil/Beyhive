@@ -27,7 +27,3 @@ body
   font-size: 15rem;
   position: absolute;
 }
-*{
- height: 100vh;
- cursor: url("bee.png"), auto;
-}
